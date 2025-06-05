@@ -1,7 +1,6 @@
 # Hi there, I'm Dinuka 👋
 
 - 🎓 I'm an undergraduate student majoring in Computer Science.
-- 📚 Gearing up for my final year of undergraduate studies.
 - 💻 Currently learning Django and Spring Boot.
 - 🔍 Passionate about computer science, web applications, and software development.
 - 🌟 Enthusiastic about learning and exploring new technologies.
