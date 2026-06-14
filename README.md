@@ -1,10 +1,5 @@
 # Hi there, I'm Dinuka 👋
 
-- 🎓 I'm an undergraduate student majoring in Computer Science.
-- 💻 Currently learning Django and Spring Boot.
-- 🔍 Passionate about computer science, web applications, and software development.
-- 🌟 Enthusiastic about learning and exploring new technologies.
-
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinuka-heshan/)
